@@ -1,2 +1,2 @@
-# EX-1-PI-CSS
-EX 1 PI CSS
+# tipos-de-css
+Exercício sobre os tipos de CSS: inline, embutido e externo.
